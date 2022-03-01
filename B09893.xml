@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A strange but true narrative of the delusion of the devil at a late Quakers meeting, on one John Thurston. How he was seduced to turn Quaker, and possessed by an evil spirit and of a tempation he had to cut his own throat, and how he was preserved therefrom and several passages which happen'd to him in the time of his delusion / attested to by Mr. William Robinson.</title>
+            <author>Robinson, William, fl. 1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09893</idno>
+            <idno type="STC">Wing R1725A</idno>
+            <idno type="STC">ESTC R185127</idno>
+            <idno type="EEBO-CITATION">64551699</idno>
+            <idno type="OCLC">ocm 64551699</idno>
+            <idno type="VID">184774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184774)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A strange but true narrative of the delusion of the devil at a late Quakers meeting, on one John Thurston. How he was seduced to turn Quaker, and possessed by an evil spirit and of a tempation he had to cut his own throat, and how he was preserved therefrom and several passages which happen'd to him in the time of his delusion / attested to by Mr. William Robinson.</title>
+                  <author>Robinson, William, fl. 1678.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D. M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thurston, John --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Demonic possession --  England --  Early works to 1800.</term>
+               <term>Devil --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184774:1"/>
+            <pb facs="tcp:184774:1" rendition="simple:additions"/>
+            <p>A ſtrange but true NARRATIVE OF THE DELUSION OF THE DEVIL At a late Quakers Meeting, On one <hi>JOHN TH<g ref="char:V">Ʋ</g>RSTON.</hi>
+            </p>
+            <p>How he was ſeduced to turn QUAKER, and Poſſeſſed by an Evil Spirit, and of a Temptation he had to Cut his own Throat, and how he was preſerved therefrom; and ſeveral Paſſages which happen'd to him in the time of his Deluſion.</p>
+            <p>
+               <hi>Atteſted by Mr.</hi> William Robinſon, <hi>that had the Relation from his own mouth.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance.</p>
+                        <closer>
+                           <signed>Ro. L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. M.</hi> 1678.</p>
+            <pb facs="tcp:184774:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:184774:2"/>
+            <head>A true, ſtrange, and wonderful Narrative of the Deluſion of the Devil at a late <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> Meeting, on one <hi>John Thurſton</hi> of <hi>Kendal</hi> in <hi>Weſtmoreland,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TO ſatisfie your ſcruple as to the Truth and Credit of this following Relation, I had as much as this amounts to from <hi>Thurſton</hi> himſelf, and the Miniſter of the Pariſh affirmed the Particulars of it. My houſe is in <hi>Browns</hi> Court in
+<hi>Crutchet-Friers, London,</hi> and my name is <hi>William Robinſon.</hi>
+            </p>
+            <p>IN <hi>May</hi> laſt 1678, at <hi>Kendal</hi> in <hi>Weſtmoreland,</hi> one <hi>John Thurſton</hi> who was very deſirous to aſſociate himſelf with the <hi>Quakers</hi> at their Meetings, and ſpeaking with one of them a<g ref="char:EOLhyphen"/>bout it, he much incouraged him to hold on his Purpoſe; and accordingly he went to them, when their preſent Speaker whoſe drift was to deny all Miniſterial Teaching and Ordinances, together with all notional knowledge gained by the uſe of ſuch means, and to become as if they never learned any thing; and now to be
+<pb n="4" facs="tcp:184774:3"/>
+taught of God within themſelves, by waiting upon an inward Light, which (as he ſaid) lies low hidden under the Earth, <hi>viz.</hi> the Old man which is of the Earth, earthly.</p>
+            <p>
+               <hi>Thurſton</hi> was immediately ſo taken with this kind of Doctrine, that he reſolved to cloſe with them; was afraid to read any good Books, to hear any Preaching-Miniſter, or to call to re<g ref="char:EOLhyphen"/>membrance any thing which he had f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmerly learned concerning God, Chriſt, his own Eſtate, or any other ſubject contained in the Scripture. One of them told him, that Chriſt was as man, had his failings, diſtruſted God; and many other blaſphemous words.</p>
+            <p>At his next meeting, the Speaker urged him to take up the Croſs daily, ſaying, <hi>Carry the Croſs all day, and it will keep thee at night.</hi> He urged him to hearken to a Voice within him; ſpoke much of a Light within them. Which <hi>Thurſton</hi> not yet finding, was much troubled, deſiring that he might fall into quaking, think<g ref="char:EOLhyphen"/>ing thereby he ſhould attain to the immediate diſcoveries of God to him. And accordingly ſhortly after as he was walking in his Chamber, he began to quake ſo extreamly, that he could not ſtand, but fell upon his bed, where he how<g ref="char:EOLhyphen"/>led and cried in a terrible manner, yet was he not afraid, but look'd upon it as the pangs of the New birth. After half an hour, by degrees, he ceaſed from howling, and rejoyced that now he could witneſs againſt the Miniſters of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as falſe Prophets and Prieſts of <hi>Baal.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:184774:3"/>
+All the Night after, he was much troubled with Dreams about his Sins, and when he awak<g ref="char:EOLhyphen"/>ed, he perceived ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mething lighting on his Neck, and giving him a great ſtroak which cauſed much pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and ſo a ſecond, third, and fourth, each leſs then other, deſcending till it came to the middle of his Back, and then he diſcerned ſomething to enter into his Body, and he thought he heard a Voice within him ſaying, <hi>It is day,</hi> addding twice, <hi>As ſure as it's light, ſo ſurely ſhall Chriſt give thee light.</hi>
+            </p>
+            <p>Two or three days after, he ſtill waited for more Light, and walking into a field, he lay down with his Face to the Earth, at which time his right hand began extreamly to ſhake, and he was in a great rapture of joy, then did the power within, raiſe him and ſet him on his Feet, and afterwards layd him on his Back, brought his Sins into his remembrance, cauſing his Hand at every Sin, to ſtrike the ground, and he heard a voyce ſaying, <hi>Now is ſuch a Sin mor<g ref="char:EOLhyphen"/>tified;</hi> then was he perſwaded that all his Sins were mortified at once: Then roſe he up, and a voice asked him, <hi>What he would from Heaven, and it ſhould be <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iven him<g ref="char:punc">▪</g>
+               </hi> then ſaid <hi>Thurſton,</hi> what ſhall I ask? It was anſwered, <hi>Ask Wiſdom in the firſt place,</hi> he did ſo, it was anſwered, <hi>That his requeſt was granted, and that he ſhould be endowed with the gift of Prophecy.</hi>
+            </p>
+            <p>Preſently after, he went to another of their Meetings, where the ſame perſon was again the Speaker, with which he was more affected than
+<pb n="6" facs="tcp:184774:4"/>
+formerly, for that as he conceited, he could inwardly witneſs to what he ſpake; after him another ſpake, in the time of whoſe ſpeaking, <hi>Thurſton</hi> was drawn out of his Chair, and thrown upon the ground, where he l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y all night, all which time, his Body and Members were all in a kind of Epi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eptical motion; being turned from his back on his belly, and ſo back again ſeveral times, making croſſes with his Legs and his Hands, moving on the ground as if he had been writing, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e heard a voice ſaying, <hi>That that writing with his hand on the ground, ſignified the writing of the Law in his heart,</hi> then were his hands moved to his head, and he ſaid that he heard a voyce, <hi>Chriſt in thee,</hi> which words he was compelled to ſing forth in a ſtrange man<g ref="char:EOLhyphen"/>ner, and with ſuch a voice as was not his own<g ref="char:punc">▪</g> then it ſeemed that ſome Spirit raiſed him up, and bid him be humble, then brought him on his knees again, and he heard the voyce ſaying, <hi>Stoop low, low,</hi> and when his face was almoſt at the ground, it ſaid to him, <hi>Take up thy Croſs, and follow me,</hi> then riſing, he was led out of the houſe by the Devil at a Back door to the River, and back again, and then into the Town, where he was drawn down the ſtreet to a door, but he knew not where; whereupon two of them that followed him ſaid, <hi>Whither will you go? This is the Fidlers houſe; Thurſton</hi> an<g ref="char:EOLhyphen"/>ſwered, be it whoſe houſe it will, I am led hi<g ref="char:EOLhyphen"/>ther, and hither I muſt go, then was his hand forced to knock at the door, and the Voice bad
+<pb n="7" facs="tcp:184774:4"/>
+him ſay, <hi>Behold, Chriſt ſtands at the door and knocks.</hi> The Fidler opening the door, he went in, and taking down a Fiddle, he was forced to play on it and to dance; whereupon he queſtio<g ref="char:EOLhyphen"/>ned what p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer led him to ſuch actions: and the Voice preſently anſwered him, <hi>This is not be<g ref="char:EOLhyphen"/>cauſe I love Muſick for I hate it, but to ſignifie to thee what joy there is in Heaven at thy Conver<g ref="char:EOLhyphen"/>ſions as alſo what Spiritual Melody thou ſhalt have hereafter</hi>
+            </p>
+            <p>Then was he led out of the houſe and carried through the Town, pronouncing a Text of Scripture as he went. Then went he to his own houſe, and there by the Spirit was thrown down, and forced to make Circles with his hands, the Voice telling him, <hi>That he was now putting off the Old man.</hi> His hand alſo was forced to take up a ſtone which lay on the floor, which he thought to be like a mans heart, and the Voice told him, <hi>That Chriſt had taken that ſtone out of his heart, and gi<g ref="char:EOLhyphen"/>ven him an heart of fleſh.</hi> Then was he caſt upon his back to the ground, and the Voice ſaid, <hi>Thou ſhalt have two Angels to keep thee:</hi> And immediately two Swallows came down the Chimney; whereupon he cried out, <hi>My Angels, my Angels!</hi> And withal he held out his hand to them, expecting they ſhould have come to him; but they flew up the chimny again, though the door and windows were open. Then was he carried upon his hands and knees out of the doors into the ſtreet; and when his Wife would have ſtopt him, he ſaid, <hi>He muſt not be ſtopt, he muſt forſake Wife, Children and all, to follow Chriſt.</hi> Thus went he up the ſtreet, thinking he bore a Croſs upon his neck, till ſome pull'd him out of the mire and dirt, and by force carried him into his own houſe; whereupon pointing at one of them, he ſaid, <hi>Chriſt points at thee; thou art a wicked woman, thou haſt hindred the work of the Lord.</hi> Thus he continued until the evening, when many of the <hi>Quakers</hi> coming to him, ſaid, <hi>Be lowly minded, and</hi>
+               <pb n="8" facs="tcp:184774:5"/>
+               <hi>hearken to the Voice within thee.</hi> And ſo they left him, his ſtrength being almoſt quite ſpent with his reſtl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſneſs.</p>
+            <p>His wife and Family going to Bed, he remained alone, when he began to queſtion, whither theſe ſtrange Actions were <hi>Divine,</hi> or <hi>Diabolical:</hi> Whereupon he trembled, and his Hand was forced to take up a Knife, which lay by, and to point it to his Throat; and the Voice ſaid to him, <hi>Open a hole there, and thou ſhalt have Eternal Life.</hi> But he threw away the Knife, and his Wife coming to him, at her per<g ref="char:EOLhyphen"/>ſwaſion he went to bed; and all the Night after he aſſured himſelf, that he was poſſeſſed by an Evil Spirit. And in the Morning he roared and cryed out, <hi>Now the Devil is gone out of me;</hi> at which inſtant he and his Family heard it thunder, though no others heard it: Hereupon he fell into Deſpair for a time, thinking that every thing which he either heard or ſaw, was the Devil which came to fetch him away. Some<g ref="char:EOLhyphen"/>times he thougbt that he ſhould be taken away in a flame of Fire, other ſometimes that the Earth would open and ſwallow him. Yet at laſt it pleaſed God (as it ſeems) to give him Repentance and Peace in his Conſcience; and did deſire that a Narratiue of theſe things might be Publiſhed, to diſcover the danger of the <hi>Quakers</hi> Meetings, and to be a Caution to others, to take heed how they go out of Gods ways, and forſake his Ordinances, leſt falling into the Er<g ref="char:EOLhyphen"/>rour of the wicked, they decline from their former ſtedfaſt<g ref="char:EOLhyphen"/>neſs; and leaſt not receiving the Love of the Truth, that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey might be ſaved, God give them over to ſtrong Delu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s, to believe a Lye.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
